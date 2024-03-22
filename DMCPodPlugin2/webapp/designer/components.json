@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "DMCPodPlugin2",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": false,
+			"name": "accenture.custom.podplugin2.DMCPodPlugin2.DMCPodPlugin2",
+			"propertyEditor": "accenture.custom.podplugin2.DMCPodPlugin2.DMCPodPlugin2.builder.PropertyEditor",
+			"i18n": "accenture.custom.podplugin2.DMCPodPlugin2.DMCPodPlugin2.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "DMCPodPlugin2",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER"]
+		}   
+	]
+}
