@@ -29,7 +29,7 @@
             </Toolbar>
         </headerToolbar>
         <content> 
-            <Text id="textPlugin" text="template" class="textFontSize" textAlign="Center" width="100%"/>
+            <Text id="textPlugin" text="test" class="textFontSize" textAlign="Center" width="100%"/>
         </content>
 	    </Panel>		
         
